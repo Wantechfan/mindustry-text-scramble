@@ -1,0 +1,8 @@
+name: "text-scrambler"
+displayName: "Text Scrambler"
+author: "WantechFan"
+description: "Scrambles almost all texts in Mindustry."
+minGameVersion: "155.2"
+version: "1"
+hidden: true
+subtitle: "Scrambled texts"
